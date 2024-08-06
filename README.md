@@ -18,16 +18,19 @@ Before using Image Reshaper, ensure you have the following:
 ## Installation
 
 1. **Clone the Repository**
-
+   ```bash
    git clone https://github.com/yourusername/image_reshaper.git
+   ```
 
-2. **Navigate to the Project Directory**
-
+3. **Navigate to the Project Directory**
+  ```bash
    cd image_reshaper
+  ```
 
-3. **Install Required Libraries**
-   
+5. **Install Required Libraries**
+   ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage
 
@@ -36,12 +39,14 @@ To use the Image Reshaper program, follow these steps:
 1. Open Command Prompt
 
 2. Navigate to the image_reshaper Directory
-
+   ```bash
    cd path\to\image_reshaper
+   ```
 
 3. Run the Program
-
+   ```bash
    python reshape_images.py <input_folder> <output_folder>
+   ```
 
 Replace <input_folder> with the name of the folder containing the images you want to process, and <output_folder> with the name of the folder where the processed images will be saved.
 
