@@ -23,9 +23,9 @@ Before using Image Reshaper, ensure you have the following:
    ```
 
 3. **Navigate to the Project Directory**
-  ```bash
+   ```bash
    cd image_reshaper
-  ```
+   ```
 
 5. **Install Required Libraries**
    ```bash
