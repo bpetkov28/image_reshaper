@@ -19,15 +19,15 @@ Before using Image Reshaper, ensure you have the following:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/image_reshaper.git
+   git clone https://github.com/bpetkov28/image_reshaper.git
    ```
 
-3. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**
    ```bash
    cd image_reshaper
    ```
 
-5. **Install Required Libraries**
+3. **Install Required Libraries**
    ```bash
    pip install -r requirements.txt
    ```
