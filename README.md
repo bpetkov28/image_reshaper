@@ -67,5 +67,8 @@ If your input images are in a folder named to_reshape and you want to save the r
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 
+Thank you for using the image_reshaper! Stay safe and compile images faster than ever.
+
+
 
 
